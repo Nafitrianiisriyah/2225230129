@@ -17,8 +17,8 @@
 <body>
     <div class="container" style="background:#ccc">
     <div class="alert alert-info text-center">
-    <h4 style="margin-bottom: 0px"><b>Selamat datang Di Perpustakaan Meraih Mimpi </b></h4>
-    <em> by Nafitriani Isriyah</em>
+    <h3 style="margin-bottom: 0px"><b>Selamat datang Di Perpustakaan Meraih Mimpi </b></h3>
+
     </div>
         @include('menu')
         @include('benner')

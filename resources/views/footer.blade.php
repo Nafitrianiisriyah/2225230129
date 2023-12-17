@@ -17,7 +17,7 @@
             <div class="col-md-3">
                 Copyright &copy; 2023. All right reserve
                 <p>
-                Developed by Nafitriani 2225230129</div>
+                Developed by Nafitriani isriyah 2225230129</div>
         </div>
     </div>
     
